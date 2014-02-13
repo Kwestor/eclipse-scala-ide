@@ -158,6 +158,7 @@ repositories/https\:__raw.github.com_guari_eclipse-ui-theme_master_com.github.ec
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/enabled=true
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/isSystem=false
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/name=Eclipse Themes from Jeeeyul
+repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/nickname=Eclipse Themes from Jeeeyul
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/suffix=content.xml
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/uri=https\://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.updatesite/

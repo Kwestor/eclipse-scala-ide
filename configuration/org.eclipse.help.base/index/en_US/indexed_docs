@@ -1,17 +1,17 @@
 #This is a generated file; do not edit.
-#Wed Dec 04 15:27:42 CET 2013
+#Tue Jan 21 12:02:01 CET 2014
 /org.eclipse.platform.doc.isv/reference/misc/launcher.html=0
 /org.eclipse.platform.doc.isv/guide/resInt_preferences.htm=0
-/net.sf.eclipsecs.doc/docs/releasenotes/4.4.2/release_notes.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/ui/views/markers/package-summary.html=0
+/net.sf.eclipsecs.doc/docs/releasenotes/4.4.2/release_notes.html=0
 /org.eclipse.platform.doc.user/concepts/cpropview.htm=0
 /org.eclipse.pde.doc.user/guide/tools/launchers/tracing.htm=0
 /org.eclipse.platform.doc.isv/guide/resAdv_events.htm=0
 /org.eclipse.platform.doc.user/reference/ref-securestorage-prefs.htm=0
 /org.eclipse.platform.doc.user/tasks/tkeybindings.htm=0
-/net.sf.eclipsecs.doc/docs/advanced_properties.html=0
 /org.eclipse.platform.doc.isv/guide/forms.htm=0
 /org.eclipse.platform.doc.user/reference/ref-keybindings.htm=0
+/net.sf.eclipsecs.doc/docs/advanced_properties.html=0
 /org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/ui/actions/package-summary.html=0
 /org.eclipse.jdt.doc.user/reference/views/shared/ref-inspectvariable.htm=0
 /org.eclipse.jdt.doc.user/gettingStarted/qs-11.htm=0
@@ -92,10 +92,11 @@
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-hitcount_contextaction.htm=0
 /org.eclipse.platform.doc.user/gettingStarted/qs-61f_syncproject.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/databinding/preference/package-summary.html=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/API-Changes-and-Migration-Hints.html=0
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-removeall_viewaction.htm=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/GitHub-Connector-Features.html=0
 /org.eclipse.jdt.doc.user/tasks/task-suppress_warnings.htm=0
 /org.eclipse.jdt.doc.user/reference/views/shared/ref-vertview.htm=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/3.2.html=0
 /org.eclipse.jdt.doc.user/reference/breakpoints/ref-exit_option.htm=0
 /org.eclipse.jdt.doc.user/concepts/clocdbug.htm=0
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-remove_viewaction.htm=0
@@ -155,8 +156,8 @@
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_compare_structureMergeViewers.html=0
 /org.eclipse.pde.doc.user/guide/tools/editors/product_editor/launching.htm=0
 /org.eclipse.platform.doc.user/reference/ref-20team-models.htm=0
-/net.sf.eclipsecs.doc/docs/advanced_configtypes.html=0
 /org.scala-ide.sdt.core/docs/refactorings/organize_imports.html=0
+/net.sf.eclipsecs.doc/docs/advanced_configtypes.html=0
 /org.eclipse.platform.doc.isv/guide/ua_dynamic_includes.htm=0
 /org.eclipse.platform.doc.isv/guide/ua_help_search.htm=0
 /org.eclipse.platform.doc.user/tasks/tasks-96.htm=0
@@ -221,7 +222,6 @@
 /org.scala-ide.sdt.core/docs/quickstart.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-133.htm=0
 /org.eclipse.platform.doc.user/reference/ref-48a.htm=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Commands.html=0
 /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples.controls/doc-html/swt_controls_ex.html=0
 /org.eclipse.pde.doc.user/reference/api/org/eclipse/pde/core/build/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/misc/bundle_manifest.html=0
@@ -237,6 +237,7 @@
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_equinox_http_registry_httpcontexts.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_debug_ui_contextViewBindings.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-1.htm=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/Bug-Fixes.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-110.htm=0
 /org.eclipse.platform.doc.user/reference/ref-19cvs-sync.htm=0
 /org.eclipse.jdt.doc.user/gettingStarted/qs-6.htm=0
@@ -282,7 +283,6 @@
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_debug_ui_launchGroups.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/ui/editors/text/templates/package-summary.html=0
 /org.eclipse.platform.doc.user/reference/ref-19.htm=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Command-Line.html=0
 /org.eclipse.pde.doc.user/tasks/pde_compilation_order.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/text/source/package-summary.html=0
 /org.eclipse.egit.doc/cheatsheets/push.xml=0
@@ -291,9 +291,9 @@
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-workingsets_viewaction.htm=0
 /org.eclipse.ui.intro.universal/overview=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_debug_ui_launchConfigurationTypeImages.html=0
-/net.sf.eclipsecs.doc/docs/releasenotes/5.0.0beta4/release_notes.html=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_core_manipulation_changeMethodSignatureParticipants.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/text/contentassist/package-summary.html=0
+/net.sf.eclipsecs.doc/docs/releasenotes/5.0.0beta4/release_notes.html=0
 /org.eclipse.jdt.doc.user/reference/ref-refactoring-extract-method.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ant_core_antTypes.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/debug/ui/package-summary.html=0
@@ -335,7 +335,6 @@
 /org.eclipse.platform.doc.user/reference/ref-3.htm=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_core_codeFormatter.html=0
 /org.eclipse.pde.doc.user/guide/tools/target_shared/edit_target_wizard.htm=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/Bug-Fixes.html=0
 /org.eclipse.platform.doc.user/tasks/help_accessibility.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/team/core/history/provider/package-summary.html=0
 /org.eclipse.jdt.doc.isv/porting/3.9/incompatibilities.html=0
@@ -442,9 +441,9 @@
 /org.eclipse.jdt.doc.user/tasks/tasks-36.htm=0
 /org.eclipse.platform.doc.isv/guide/forms_controls_link.htm=0
 /org.eclipse.platform.doc.isv/guide/workbench_menus.htm=0
-/net.sf.eclipsecs.doc/docs/index.html=0
 /org.eclipse.platform.doc.isv/guide/firstplugin_manifest.htm=0
 /org.eclipse.jdt.doc.user/concepts/concept-java-project.htm=0
+/net.sf.eclipsecs.doc/docs/index.html=0
 /org.eclipse.jdt.doc.user/gettingStarted/qs-EditorTemplates.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/team/core/history/package-summary.html=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_ui_classpathFixProcessors.html=0
@@ -514,10 +513,9 @@
 /org.eclipse.platform.doc.user/concepts/help.htm=0
 /org.eclipse.pde.doc.user/guide/tools/pde_actions/convert_projects.htm=0
 /org.eclipse.jdt.doc.user/reference/ref-dialog-java-element-filters.htm=0
-/net.sf.eclipsecs.doc/docs/releasenotes/5.6.0/release_notes.html=0
 /org.eclipse.jdt.doc.user/tasks/task-view_runtime_exceptions.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/ui/actions/package-summary.html=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Updating-This-Document.html=0
+/net.sf.eclipsecs.doc/docs/releasenotes/5.6.0/release_notes.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/equinox/p2/query/package-summary.html=0
 /org.eclipse.pde.doc.user/reference/api-tooling/ant-tasks/compare-ant-task.htm=0
 /org.eclipse.platform.doc.isv/guide/st_structured_text.htm=0
@@ -562,7 +560,6 @@
 /org.eclipse.jdt/cheatsheets/HelloWorld.xml=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/team/ui/history/package-summary.html=0
 /net.sf.eclipsecs.doc/docs/releasenotes/5.0.3/release_notes.html=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Bug-Fixes.html=0
 /org.eclipse.jdt.doc.user/concepts/concept-java-perspective.htm=0
 /org.eclipse.platform.doc.isv/guide/cnf_config.htm=0
 /org.eclipse.egit.doc/help/JGit/User_Guide/Reference.html=0
@@ -588,6 +585,7 @@
 /org.eclipse.platform.doc.isv/guide/ant.htm=0
 /org.eclipse.jdt.doc.user/gettingStarted/qs-12.htm=0
 /org.eclipse.pde.doc.user/guide/tools/views/plugin_registry.htm=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/Updating-This-Document.html=0
 /org.eclipse.jdt.doc.user/gettingStarted/qs-OrganizeImports.htm=0
 /org.eclipse.pde.doc.user/reference/extension-points/org_eclipse_pde_ui_targetProvisioners.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/swt/program/package-summary.html=0
@@ -630,7 +628,6 @@
 /org.eclipse.platform.doc.user/tasks/tasks-cvs-project-set.htm=0
 /org.eclipse.jdt.doc.user/reference/views/console/ref-autoformat_action.htm=0
 /org.eclipse.platform.doc.isv/guide/resAdv_efs_api.htm=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/Updating-This-Document.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_core_resources_variableResolvers.html=0
 /org.eclipse.platform.doc.user/gettingStarted/qs-39d.htm=0
 /org.eclipse.pde.doc.user/guide/tools/preference_pages/runtime_classpath_properties.htm=0
@@ -639,6 +636,7 @@
 /org.eclipse.platform.doc.isv/guide/p2_publisher.html=0
 /org.eclipse.platform.doc.isv/samples/org.eclipse.ui.examples.javaeditor/doc-html/ui_javaeditor_ex.html=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_launching_vmInstallTypes.html=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/Contributors.html=0
 /org.eclipse.platform.doc.isv/guide/int_eclipse.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_core_runtime_preferences.html=0
 /org.eclipse.jdt.doc.user/reference/views/shared/ref-find.htm=0
@@ -701,7 +699,6 @@
 /org.eclipse.platform.doc.user/tasks/tasks-118.htm=0
 /org.eclipse.platform.doc.isv/porting/removals.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/databinding/property/value/package-summary.html=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/Performance-Improvements.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/databinding/property/map/package-summary.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-66.htm=0
 /org.eclipse.platform.doc.user/tasks/tasks-1a.htm=0
@@ -738,9 +735,9 @@
 /org.eclipse.platform.doc.user/tasks/tasks-97.htm=0
 /org.eclipse.platform.doc.user/tasks/tasks-20.htm=0
 /org.eclipse.pde.doc.user/guide/tools/editors/target_editor/environment_page.htm=0
+/org.eclipse.egit.doc/help/EGit/User_Guide/Updating-This-Document.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ant_core_antProperties.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/expressions/package-summary.html=0
-/org.eclipse.egit.doc/help/EGit/User_Guide/Updating-This-Document.html=0
 /org.eclipse.platform.doc.isv/guide/editors_sourceviewers.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_debug_ui_debugModelPresentations.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/equinox/p2/repository/artifact/spi/package-summary.html=0
@@ -823,7 +820,6 @@
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_editors_markerUpdaters.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-82.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/databinding/wizard/package-summary.html=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Contributors.html=0
 /org.eclipse.platform.doc.user/reference/ref-40.htm=0
 /org.eclipse.pde.doc.user/tasks/pde_feature_generating_ant.htm=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_core_classpathVariableInitializer.html=0
@@ -872,7 +868,6 @@
 /org.eclipse.platform.doc.isv/guide/search_page.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/equinox/security/auth/credentials/package-summary.html=0
 /org.eclipse.platform.doc.user/reference/ref-71.htm=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Performance-Improvements.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/equinox/p2/engine/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_team_ui_synchronizeWizards.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_commandImages.html=0
@@ -917,8 +912,8 @@
 /org.eclipse.egit.doc/help/JGit/User_Guide/Advanced-Topics.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/dialogs/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/ui/views/tasklist/package-summary.html=0
-/net.sf.eclipsecs.doc/docs/advanced_preferences.html=0
 /org.eclipse.jdt.doc.user/reference/preferences/java/compiler/ref-preferences-javadoc.htm=0
+/net.sf.eclipsecs.doc/docs/advanced_preferences.html=0
 /org.eclipse.platform.doc.isv/guide/resInt_workspace.htm=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_ui_classpathAttributeConfiguration.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_editors_documentProviders.html=0
@@ -980,7 +975,6 @@
 /org.eclipse.platform.doc.isv/guide/forms_controls_text_markup.htm=0
 /org.eclipse.platform.doc.user/concepts/concepts-cvs-watch.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_help_base_searchParticipant.html=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/API-changes.html=0
 /org.eclipse.jdt.doc.user/tasks/task-set_method_breakpoints.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ltk_core_refactoring_copyParticipants.html=0
 /org.eclipse.platform.doc.isv/reference/misc/plugin_archive.html=0
@@ -992,7 +986,6 @@
 /org.eclipse.platform.doc.user/tasks/tasks-24.htm=0
 /org.eclipse.platform.doc.user/reference/ref-59.htm=0
 /org.eclipse.pde.doc.user/tasks/pde_plugins_build.htm=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/3.0.html=0
 /org.eclipse.jdt.doc.user/concepts/concept-classpath-variables.htm=0
 /org.eclipse.pde.doc.user/guide/tools/file_wizards/new_toc.htm=0
 /org.eclipse.jdt.doc.user/reference/views/debug/ref-usestepfilters.htm=0
@@ -1083,9 +1076,9 @@
 /org.eclipse.platform.doc.isv/guide/resInt_content.htm=0
 /org.eclipse.platform.doc.user/tasks/tasks-115.htm=0
 /org.eclipse.jdt.doc.user/tasks/task-ant_javac_adapter.htm=0
-/net.sf.eclipsecs.doc/docs/getting_started.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/e4/ui/model/application/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/resources/filtermatchers/package-summary.html=0
+/net.sf.eclipsecs.doc/docs/getting_started.html=0
 /org.eclipse.platform.doc.isv/guide/cnf_operation.htm=0
 /org.eclipse.platform.doc.isv/guide/p2_ui.htm=0
 /org.eclipse.platform.doc.user/concepts/accessibility/accessmain.htm=0
@@ -1131,10 +1124,12 @@
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_debug_ui_toggleBreakpointsTargetFactories.html=0
 /org.eclipse.platform.doc.isv/guide/ua_intro_defining_config.htm=0
 /org.eclipse.platform.doc.user/tasks/tasks-94.htm=0
+/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.2/Bug-Fixes.html=0
 /org.eclipse.platform.doc.user/gettingStarted/qs-70_workingWithHistory.htm=0
 /org.eclipse.jdt.doc.user/tasks/task-running_and_debugging.htm=0
 /org.eclipse.platform.doc.isv/guide/resInt_filesystem.htm=0
 /org.eclipse.platform.doc.isv/guide/wrkAdv.htm=0
+/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.2/Updating-This-Document.html=0
 /org.eclipse.platform.doc.isv/reference/misc/multi_user_installs.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-123.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/equinox/bidi/package-summary.html=0
@@ -1347,6 +1342,7 @@
 /org.eclipse.pde.doc.user/guide/tools/editors/feature_editor/dependencies.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/debug/ui/contexts/package-summary.html=0
 /org.eclipse.platform.doc.user/gettingStarted/intro/overview.htm=0
+/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.2/Build-and-Release-Engineering.html=0
 /net.sf.eclipsecs.doc/docs/basic_setup_project.html=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_core_resources_moveDeleteHook.html=0
 /org.eclipse.platform.doc.user/gettingStarted/qs-93a_project_builder_targets.htm=0
@@ -1394,7 +1390,6 @@
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/text/information/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/core/databinding/observable/value/package-summary.html=0
 /org.eclipse.pde.doc.user/guide/tools/import_wizards/import_wizards.htm=0
-/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.0/Library.html=0
 /org.eclipse.jdt.doc.user/reference/views/ref-view-package-explorer.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_equinox_security_secureStorage.html=0
 /org.eclipse.platform.doc.user/tasks/tasks-52.htm=0
@@ -1606,7 +1601,6 @@
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-linkwith_viewaction.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_equinox_http_registry_resources.html=0
 /org.eclipse.platform.doc.isv/guide/p2_startup.htm=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/3.0.html=0
 /org.eclipse.platform.doc.isv/guide/wrkAdv_keyBindings_contexts.htm=0
 /org.eclipse.platform.doc.isv/guide/preferences_prefs_fieldeditors.htm=0
 /org.eclipse.platform.doc.isv/guide/ua_dynamic.htm=0
@@ -1653,6 +1647,7 @@
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/ant/core/package-summary.html=0
 /org.eclipse.platform.doc.isv/reference/misc/project_description_file.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/help/base/package-summary.html=0
+/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.2/3.2.html=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/debug/core/sourcelookup/containers/package-summary.html=0
 /org.eclipse.platform.doc.user/reference/ref-68.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_console_consolePatternMatchListeners.html=0
@@ -1716,6 +1711,7 @@
 /org.eclipse.platform.doc.isv/guide/ant_expanding_classpath.htm=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_debug_javaLogicalStructures.html=0
 /org.eclipse.jdt.doc.isv/reference/api/org/eclipse/jdt/junit/model/package-summary.html=0
+/org.eclipse.egit.doc/help/JGit/New_and_Noteworthy/3.2/Contributors.html=0
 /org.eclipse.platform.doc.isv/guide/arch_struct.htm=0
 /org.eclipse.jdt.doc.user/reference/views/breakpoints/ref-showsupported_viewaction.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/jface/text/templates/package-summary.html=0
@@ -1828,7 +1824,6 @@
 /org.eclipse.jdt.doc.user/tasks/tasks-62.htm=0
 /org.eclipse.jdt.doc.user/reference/views/variables/ref-createwatch.htm=0
 /org.eclipse.platform.doc.isv/samples/org.eclipse.swt.examples/doc-html/swt_texteditor_ex.html=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/GitHub-Connector-Features.html=0
 /org.eclipse.platform.doc.isv/guide/cnf_steps_general.htm=0
 /org.eclipse.platform.doc.user/gettingStarted/qs-64c_catch_sync_view.htm=0
 /org.eclipse.platform.doc.isv/guide/product_def_plugins.htm=0
@@ -1947,7 +1942,6 @@
 /org.eclipse.jdt.doc.user/reference/preferences/java/debug/ref-step_filtering.htm=0
 /org.eclipse.platform.doc.isv/reference/api/org/eclipse/team/ui/mapping/package-summary.html=0
 /org.eclipse.jdt.doc.isv/reference/extension-points/org_eclipse_jdt_launching_runtimeClasspathEntryResolvers.html=0
-/org.eclipse.egit.doc/help/EGit/New_and_Noteworthy/3.0/Contributors.html=0
 /org.eclipse.platform.doc.user/reference/ref-57.htm=0
 /org.eclipse.platform.doc.isv/reference/extension-points/org_eclipse_ui_actionSets.html=0
 /org.eclipse.platform.doc.isv/samples/org.eclipse.compare.examples/doc-html/ui_structurecreator_ex.html=0
