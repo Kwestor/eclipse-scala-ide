@@ -15,6 +15,20 @@ repositories/file\:_C\:_Users_Jerzy_Eclipses_eclipse-scala-ide_configuration_org
 repositories/file\:_C\:_Users_Jerzy_Eclipses_eclipse-scala-ide_configuration_org.eclipse.osgi_bundles_127_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/file\:_C\:_Users_Jerzy_Eclipses_eclipse-scala-ide_configuration_org.eclipse.osgi_bundles_127_data_listener_1925729951/uri=file\:/C\:/Users/Jerzy/Eclipses/eclipse-scala-ide/configuration/org.eclipse.osgi/bundles/127/data/listener_1925729951/
 repositories/file\:_C\:_Users_Jerzy_Eclipses_eclipse-scala-ide_configuration_org.eclipse.osgi_bundles_127_data_listener_1925729951/version=1.0.0
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/enabled=false
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/isSystem=true
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/name=org.nodeclipse.site
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/suffix=content.xml
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/uri=http\://dl.bintray.com/nodeclipse/nodeclipse/0.12/
+repositories/http\:__dl.bintray.com_nodeclipse_nodeclipse_0.12/version=1.0.0
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/enabled=false
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/isSystem=true
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/name=code.satyagraha.gfm.viewer.update-site
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/suffix=content.xml
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/uri=http\://dl.bintray.com/satyagraha/generic/1.8.3/
+repositories/http\:__dl.bintray.com_satyagraha_generic_1.8.3/version=1.0.0
 repositories/http\:__download.eclipse.org_eclipse_updates_4.3/count=2
 repositories/http\:__download.eclipse.org_eclipse_updates_4.3/description=
 repositories/http\:__download.eclipse.org_eclipse_updates_4.3/enabled=true
@@ -62,6 +76,25 @@ repositories/http\:__download.eclipse.org_egit_updates/suffix=content.xml
 repositories/http\:__download.eclipse.org_egit_updates/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/http\:__download.eclipse.org_egit_updates/uri=http\://download.eclipse.org/egit/updates
 repositories/http\:__download.eclipse.org_egit_updates/version=1.0.0
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/enabled=false
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/isSystem=true
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/name=Mylyn for Eclipse 3.7, 3.8 and 4.2
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/suffix=content.xml
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/uri=http\://download.eclipse.org/mylyn/drops/3.11.0/v20140314-2044/
+repositories/http\:__download.eclipse.org_mylyn_drops_3.11.0_v20140314-2044/version=1.0.0
+repositories/http\:__download.eclipse.org_mylyn_releases_3.10/enabled=false
+repositories/http\:__download.eclipse.org_mylyn_releases_3.10/isSystem=false
+repositories/http\:__download.eclipse.org_mylyn_releases_3.10/uri=http\://download.eclipse.org/mylyn/releases/3.10
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/description=
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/enabled=false
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/isSystem=true
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/name=Mylyn 3.11 for Eclipse 3.8, 4.3 and 4.4
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/provider=
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/suffix=compositeContent.xml
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/type=org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/uri=http\://download.eclipse.org/mylyn/releases/latest
+repositories/http\:__download.eclipse.org_mylyn_releases_latest/version=1.0.0
 repositories/http\:__download.eclipse.org_releases_kepler/count=2
 repositories/http\:__download.eclipse.org_releases_kepler/description=
 repositories/http\:__download.eclipse.org_releases_kepler/enabled=true
@@ -132,9 +165,25 @@ repositories/http\:__eclipse-cs.sourceforge.net_update/suffix=compositeContent.x
 repositories/http\:__eclipse-cs.sourceforge.net_update/type=org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository
 repositories/http\:__eclipse-cs.sourceforge.net_update/uri=http\://eclipse-cs.sourceforge.net/update/
 repositories/http\:__eclipse-cs.sourceforge.net_update/version=1.0.0
+repositories/http\:__eclipse.jeeeyul.net_update/enabled=false
+repositories/http\:__eclipse.jeeeyul.net_update/isSystem=true
+repositories/http\:__eclipse.jeeeyul.net_update/name=Jeeeyul's Eclipse Update Site
+repositories/http\:__eclipse.jeeeyul.net_update/suffix=content.xml
+repositories/http\:__eclipse.jeeeyul.net_update/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__eclipse.jeeeyul.net_update/uri=http\://eclipse.jeeeyul.net/update/
+repositories/http\:__eclipse.jeeeyul.net_update/version=1.0.0
 repositories/http\:__guari.github.io_updatesite/enabled=false
 repositories/http\:__guari.github.io_updatesite/isSystem=false
 repositories/http\:__guari.github.io_updatesite/uri=http\://guari.github.io/updatesite
+repositories/http\:__jeeeyul.github.io_update/enabled=false
+repositories/http\:__jeeeyul.github.io_update/isSystem=false
+repositories/http\:__jeeeyul.github.io_update/uri=http\://jeeeyul.github.io/update
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=369/enabled=true
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=369/isSystem=false
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=369/uri=http\://marketplace.eclipse.org/marketplace-client-intro?mpc_install\=369
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=845354/enabled=true
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=845354/isSystem=false
+repositories/http\:__marketplace.eclipse.org_marketplace-client-intro?mpc_install\=845354/uri=http\://marketplace.eclipse.org/marketplace-client-intro?mpc_install\=845354
 repositories/http\:__sevntu-checkstyle.github.com_sevntu.checkstyle_update-site/enabled=false
 repositories/http\:__sevntu-checkstyle.github.com_sevntu.checkstyle_update-site/isSystem=true
 repositories/http\:__sevntu-checkstyle.github.com_sevntu.checkstyle_update-site/name=Tycho Test Build
@@ -157,7 +206,7 @@ repositories/http\:__sourceforge.net_projects_eclipse-cs_files_updatesite_5.7.0/
 repositories/http\:__sourceforge.net_projects_eclipse-cs_files_updatesite_5.7.0/uri=http\://sourceforge.net/projects/eclipse-cs/files/updatesite/5.7.0
 repositories/http\:__sourceforge.net_projects_eclipse-cs_files_updatesite_5.7.0/version=1.0.0
 repositories/http\:__www.chuusai.com_eclipse_equinox-version=1.0.0
-repositories/http\:__www.chuusai.com_eclipse_equinox-weaving-launcher/enabled=true
+repositories/http\:__www.chuusai.com_eclipse_equinox-weaving-launcher/enabled=false
 repositories/http\:__www.chuusai.com_eclipse_equinox-weaving-launcher/isSystem=false
 repositories/http\:__www.chuusai.com_eclipse_equinox-weaving-launcher/name=org.scala-ide.equinox-weaving-launcher.update-site
 repositories/http\:__www.chuusai.com_eclipse_equinox-weaving-launcher/nickname=Equinox Weaving Launcher
@@ -189,3 +238,13 @@ repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.e
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/uri=https\://raw.github.com/jeeeyul/eclipse-themes/master/net.jeeeyul.eclipse.themes.updatesite/
 repositories/https\:__raw.github.com_jeeeyul_eclipse-themes_master_net.jeeeyul.eclipse.themes.updatesite/version=1.0.0
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/description=
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/enabled=true
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/isSystem=false
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/name=GFM Viewer
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/nickname=GFM Viewer
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/provider=
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/suffix=compositeContent.xml
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/type=org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/uri=https\://raw.github.com/satyagraha/gfm_viewer/master/p2-composite/
+repositories/https\:__raw.github.com_satyagraha_gfm_viewer_master_p2-composite/version=1.0.0

@@ -1,21 +1,26 @@
 #This is a generated file; do not edit.
-#Thu Mar 20 12:16:09 CET 2014
+#Fri May 16 17:56:29 CEST 2014
+org.eclipse.wst.sse.doc.user=org.eclipse.wst.sse.doc.user\n1.1.100.v201005192212
 org.eclipse.help.base=org.eclipse.help.base\n4.0.1.v20140221-1700
 org.eclipse.epp.mpc.ui=org.eclipse.epp.mpc.ui\n1.2.1.v20140219-1000
+org.eclipse.wst.xmleditor.doc.user=org.eclipse.wst.xmleditor.doc.user\n1.0.700.v201005192212
 org.eclipse.jdt=org.eclipse.jdt\n3.9.1.v20140221-1700
 org.eclipse.jdt.doc.user=org.eclipse.jdt.doc.user\n3.9.1.v20140205-0929
-org.eclipse.egit.doc=org.eclipse.egit.doc\n3.3.0.201403021825-r
+org.eclipse.egit.doc=org.eclipse.egit.doc\n3.3.2.201404171909-r
 org.eclipse.jdt.doc.isv=org.eclipse.jdt.doc.isv\n3.9.2.v20140205-0929
 org.scalastyle.scalastyleplugin.core=org.scalastyle.scalastyleplugin.core\n0.3.2
 org.eclipse.ui.cheatsheets=org.eclipse.ui.cheatsheets\n3.4.200.v20130326-1254
 net.sf.eclipsecs.doc=net.sf.eclipsecs.doc\n5.7.0.201402131929
+org.eclipse.wst.xsdeditor.doc.user=org.eclipse.wst.xsdeditor.doc.user\n1.0.800.v201005192212
 org.eclipse.ui.intro=org.eclipse.ui.intro\n3.4.200.v20130326-1254
 org.eclipse.help=org.eclipse.help\n3.6.0.v20130326-1254
 org.eclipse.platform.doc.isv=org.eclipse.platform.doc.isv\n4.3.2.v20140205-0929
 org.eclipse.epp.mpc.help.ui=org.eclipse.epp.mpc.help.ui\n1.2.1.v20140219-1000
-org.scala-ide.sdt.core=org.scala-ide.sdt.core\n4.0.0.nightly-2_10-201403140619-2ee7faf\norg.scala-ide.sdt.core.tests\n4.0.0.nightly-2_10-201403140619-2ee7faf
 org.eclipse.pde.doc.user=org.eclipse.pde.doc.user\n3.9.2.v20140205-0929
+org.scala-ide.sdt.core=org.scala-ide.sdt.core\n4.0.0.nightly-2_10-201404250522-6ee8449\norg.scala-ide.sdt.core.tests\n4.0.0.nightly-2_10-201404250522-6ee8449
 org.eclipse.platform=org.eclipse.platform\n4.3.2.v20140221-1700
+code.satyagraha.gfm.viewer.plugin=code.satyagraha.gfm.viewer.plugin\n1.8.3
 org.eclipse.pde=org.eclipse.pde\n3.8.100.v20140221-1700
+org.eclipse.wst.dtdeditor.doc.user=org.eclipse.wst.dtdeditor.doc.user\n1.0.700.v201008112018
 org.eclipse.platform.doc.user=org.eclipse.platform.doc.user\n4.3.1.v20140123-0938
 org.eclipse.ui.intro.universal=org.eclipse.ui.intro.universal\n3.2.600.v20130326-1254
